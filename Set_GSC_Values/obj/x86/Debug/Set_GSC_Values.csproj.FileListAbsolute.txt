@@ -1,0 +1,35 @@
+H:\SW Examples\Misc C#.NET4_0\Windows Programs\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.exe
+H:\SW Examples\Misc C#.NET4_0\Windows Programs\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.pdb
+S:\Misc C#.NET4_0\Windows Programs\Set_GSC_Values\bin\Debug\Set_GSC_Values.exe
+S:\Misc C#.NET4_0\Windows Programs\Set_GSC_Values\bin\Debug\Set_GSC_Values.pdb
+S:\Misc C#.NET4_0\Windows Programs\Set_GSC_Values\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Misc C#.NET4_0\Windows Programs\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.Form1.resources
+S:\Misc C#.NET4_0\Windows Programs\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.Properties.Resources.resources
+S:\Misc C#.NET4_0\Windows Programs\Set_GSC_Values\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\Misc C#.NET4_0\Windows Programs\Set_GSC_Values\obj\x86\Debug\GenerateResource.write.1.tlog
+S:\Misc C#.NET4_0\Windows Programs\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.exe
+S:\Misc C#.NET4_0\Windows Programs\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.pdb
+S:\VS C#.NET\Windows\Windows Forms Applications\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.exe
+S:\VS C#.NET\Windows\Windows Forms Applications\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.pdb
+S:\VS C#.NET\Windows\Windows Forms Applications\Set_GSC_Values\bin\Debug\Set_GSC_Values.exe
+S:\VS C#.NET\Windows\Windows Forms Applications\Set_GSC_Values\bin\Debug\Set_GSC_Values.pdb
+S:\VS C#.NET\Windows\Windows Forms Applications\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.Form1.resources
+S:\VS C#.NET\Windows\Windows Forms Applications\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.Properties.Resources.resources
+S:\VS C#.NET\Windows\Windows Forms Applications\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.csproj.GenerateResource.Cache
+S:\VS C#.NET\Windows\Windows Forms Applications\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.csprojResolveAssemblyReference.cache
+S:\Various C#.NET\Windows\Windows Forms Applications\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.exe
+S:\Various C#.NET\Windows\Windows Forms Applications\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.pdb
+S:\Various C#.NET\Windows\Windows Forms Applications\Set_GSC_Values\bin\Debug\Set_GSC_Values.exe
+S:\Various C#.NET\Windows\Windows Forms Applications\Set_GSC_Values\bin\Debug\Set_GSC_Values.pdb
+S:\Various C#.NET\Windows\Windows Forms Applications\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.csprojResolveAssemblyReference.cache
+S:\Various C#.NET\Windows\Windows Forms Applications\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.Form1.resources
+S:\Various C#.NET\Windows\Windows Forms Applications\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.Properties.Resources.resources
+S:\Various C#.NET\Windows\Windows Forms Applications\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.csproj.GenerateResource.Cache
+Z:\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.exe
+Z:\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.pdb
+Z:\GSC\Set_GSC_Values\bin\Debug\Set_GSC_Values.exe
+Z:\GSC\Set_GSC_Values\bin\Debug\Set_GSC_Values.pdb
+Z:\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.csprojResolveAssemblyReference.cache
+Z:\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.Form1.resources
+Z:\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.Properties.Resources.resources
+Z:\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.csproj.GenerateResource.Cache

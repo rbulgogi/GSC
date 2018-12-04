@@ -1,0 +1,117 @@
+09/30/2012 11:40:53.140 - Min MSecs = 0, Avg MSecs = 1027, Max MSecs = 1027 
+
+9/30/2012 11:52:24 AM - Continuous SV180 Reading Turned On
+
+09/30/2012 11:53:26.542 - Min MSecs = 1000, Avg MSecs = 1000, Max MSecs = 0 
+09/30/2012 11:53:26.542 - Min MSecs = 1000, Avg MSecs = 1000, Max MSecs = 1000 
+09/30/2012 11:54:26.573 - Min MSecs = 1000, Avg MSecs = 1007, Max MSecs = 1014 
+
+9/30/2012 12:01:34 PM - Continuous SV180 Reading Turned Off
+
+
+9/30/2012 12:02:05 PM - Continuous SV180 Reading Turned On
+
+09/30/2012 12:03:07.764 - Min MSecs = 1014, Avg MSecs = 1014, Max MSecs = 0 
+09/30/2012 12:03:07.764 - Min MSecs = 1014, Avg MSecs = 1014, Max MSecs = 1014 
+
+9/30/2012 12:21:47 PM - Continuous SV180 Reading Turned Off
+
+
+9/30/2012 12:22:18 PM - Continuous SV180 Reading Turned On
+
+09/30/2012 12:23:20.937 - Min MSecs = 1014, Avg MSecs = 1014, Max MSecs = 0 
+09/30/2012 12:23:20.937 - Min MSecs = 1014, Avg MSecs = 1014, Max MSecs = 1014 
+09/30/2012 12:52:21.329 - Avg MSecs = 1014
+09/30/2012 01:22:21.741 - Avg MSecs = 1014
+09/30/2012 01:52:22.145 - Avg MSecs = 1014
+09/30/2012 02:22:22.551 - Avg MSecs = 1014
+10/01/2012 07:35:11.258 - Min MSecs = 1014, Avg MSecs = 1028, Max MSecs = 2758 
+10/01/2012 07:36:09.499 - Min MSecs = 1000, Avg MSecs = 1027, Max MSecs = 2758 
+
+10/1/2012 7:36:14 AM - Continuous SV180 Reading Turned Off
+
+
+10/1/2012 7:36:50 AM - Continuous SV180 Reading Turned On
+
+10/01/2012 07:37:52.875 - Min MSecs = 1000, Avg MSecs = 1000, Max MSecs = 0 
+10/01/2012 07:37:52.875 - Min MSecs = 1000, Avg MSecs = 1000, Max MSecs = 1000 
+
+10/1/2012 7:44:14 AM - Continuous SV180 Reading Turned Off
+
+
+10/1/2012 7:53:39 AM - Continuous SV180 Reading Turned On
+
+10/01/2012 07:54:41.719 - Min MSecs = 1000, Avg MSecs = 1000, Max MSecs = 0 
+10/01/2012 07:54:41.719 - Min MSecs = 1000, Avg MSecs = 1000, Max MSecs = 1000 
+10/01/2012 08:01:41.808 - Min MSecs = 1000, Avg MSecs = 1000, Max MSecs = 1004 
+10/01/2012 08:23:42.104 - Avg MSecs = 1000
+10/01/2012 08:53:42.512 - Avg MSecs = 1000
+10/01/2012 09:23:42.920 - Avg MSecs = 1000
+10/01/2012 09:53:43.327 - Avg MSecs = 1000
+10/01/2012 10:18:42.722 - Min MSecs = 58, Avg MSecs = 993, Max MSecs = 1004 
+
+10/1/2012 10:19:25 AM - Continuous SV180 Reading Turned Off
+
+
+10/1/2012 10:19:27 AM - Continuous SV180 Reading Turned On
+
+
+10/1/2012 10:20:18 AM - Continuous SV180 Reading Turned Off
+
+
+10/1/2012 10:20:38 AM - Continuous SV180 Reading Turned On
+
+10/01/2012 10:21:40.439 - Min MSecs = 1000, Avg MSecs = 1000, Max MSecs = 0 
+10/01/2012 10:21:40.439 - Min MSecs = 1000, Avg MSecs = 1000, Max MSecs = 1000 
+10/01/2012 10:29:40.541 - Min MSecs = 1000, Avg MSecs = 1000, Max MSecs = 1003 
+10/01/2012 10:50:40.826 - Avg MSecs = 1000
+10/01/2012 11:20:41.233 - Avg MSecs = 1000
+10/01/2012 11:50:41.642 - Avg MSecs = 1000
+10/01/2012 12:20:42.048 - Avg MSecs = 1000
+10/01/2012 12:23:42.092 - Min MSecs = 1000, Avg MSecs = 1000, Max MSecs = 1005 
+10/01/2012 12:50:42.456 - Avg MSecs = 1000
+10/01/2012 01:20:42.862 - Avg MSecs = 1000
+10/01/2012 01:50:43.270 - Avg MSecs = 1000
+10/01/2012 02:20:43.678 - Avg MSecs = 1000
+10/01/2012 02:50:44.085 - Avg MSecs = 1000
+10/01/2012 03:20:44.493 - Avg MSecs = 1000
+10/01/2012 03:50:44.900 - Avg MSecs = 1000
+10/01/2012 04:20:45.308 - Avg MSecs = 1000
+10/01/2012 04:50:45.715 - Avg MSecs = 1000
+10/01/2012 05:20:46.124 - Avg MSecs = 1000
+10/01/2012 05:50:46.531 - Avg MSecs = 1000
+10/01/2012 06:20:46.938 - Avg MSecs = 1000
+10/01/2012 06:50:47.347 - Avg MSecs = 1000
+10/01/2012 07:20:47.753 - Avg MSecs = 1000
+10/01/2012 07:50:48.161 - Avg MSecs = 1000
+10/01/2012 08:20:48.568 - Avg MSecs = 1000
+10/01/2012 08:50:48.976 - Avg MSecs = 1000
+10/01/2012 09:20:49.384 - Avg MSecs = 1000
+10/01/2012 09:50:49.791 - Avg MSecs = 1000
+10/01/2012 10:20:50.199 - Avg MSecs = 1000
+10/01/2012 10:50:50.606 - Avg MSecs = 1000
+10/01/2012 11:20:51.014 - Avg MSecs = 1000
+10/01/2012 11:50:51.422 - Avg MSecs = 1000
+10/02/2012 12:20:51.829 - Avg MSecs = 1000
+10/02/2012 12:50:52.236 - Avg MSecs = 1000
+10/02/2012 01:20:52.645 - Avg MSecs = 1000
+10/02/2012 01:50:53.051 - Avg MSecs = 1000
+10/02/2012 02:20:53.460 - Avg MSecs = 1000
+10/02/2012 02:50:53.866 - Avg MSecs = 1000
+10/02/2012 03:20:54.275 - Avg MSecs = 1000
+10/02/2012 03:50:54.682 - Avg MSecs = 1000
+10/02/2012 04:20:55.090 - Avg MSecs = 1000
+10/02/2012 04:50:55.497 - Avg MSecs = 1000
+10/02/2012 05:20:55.905 - Avg MSecs = 1000
+10/02/2012 05:50:56.312 - Avg MSecs = 1000
+10/02/2012 06:20:56.719 - Avg MSecs = 1000
+10/02/2012 06:50:57.127 - Avg MSecs = 1000
+10/02/2012 07:20:57.536 - Avg MSecs = 1000
+10/02/2012 07:50:57.943 - Avg MSecs = 1000
+10/02/2012 08:20:58.350 - Avg MSecs = 1000
+
+10/2/2012 8:47:38 AM - Continuous SV180 Reading Turned Off
+
+
+6/8/2014 4:40:57 PM - Continuous SV180 Reading Turned On
+
