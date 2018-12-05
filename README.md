@@ -1,1 +1,1 @@
-This is a sample README file for the GSC project
+# Generator Stator Cooling Project
