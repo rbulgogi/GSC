@@ -1383,7 +1383,6 @@ namespace Set_GSC_Values
 			swTimingFile.Close();
 		}
 
-
-
-	}
+  
+    }
 }

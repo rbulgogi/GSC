@@ -29,7 +29,8 @@ Z:\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.exe
 Z:\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.pdb
 Z:\GSC\Set_GSC_Values\bin\Debug\Set_GSC_Values.exe
 Z:\GSC\Set_GSC_Values\bin\Debug\Set_GSC_Values.pdb
-Z:\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.csprojResolveAssemblyReference.cache
 Z:\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.Form1.resources
 Z:\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.Properties.Resources.resources
 Z:\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.csproj.GenerateResource.Cache
+Z:\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.csprojAssemblyReference.cache
+Z:\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.csproj.CoreCompileInputs.cache
