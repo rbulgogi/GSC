@@ -34,3 +34,12 @@ Z:\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.Properties.Resources.resource
 Z:\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.csproj.GenerateResource.Cache
 Z:\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.csprojAssemblyReference.cache
 Z:\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.csproj.CoreCompileInputs.cache
+S:\_Git_SW_Repo\GSC\Set_GSC_Values\bin\Debug\Set_GSC_Values.exe
+S:\_Git_SW_Repo\GSC\Set_GSC_Values\bin\Debug\Set_GSC_Values.pdb
+S:\_Git_SW_Repo\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.csprojAssemblyReference.cache
+S:\_Git_SW_Repo\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.Form1.resources
+S:\_Git_SW_Repo\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.Properties.Resources.resources
+S:\_Git_SW_Repo\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.csproj.GenerateResource.cache
+S:\_Git_SW_Repo\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.csproj.CoreCompileInputs.cache
+S:\_Git_SW_Repo\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.exe
+S:\_Git_SW_Repo\GSC\Set_GSC_Values\obj\x86\Debug\Set_GSC_Values.pdb
